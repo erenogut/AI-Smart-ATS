@@ -1,0 +1,24 @@
+
+Elif Kılıç
+Data Scientist
+
+İletişim:
+E-Posta: elif.kılıç14@mail.com
+Telefon: 0542 597 81 80
+Adres: İstanbul, Türkiye
+
+Hakkımda:
+Teknolojiye meraklı, öğrenmeye açık ve Data Scientist pozisyonunda kariyer hedefleyen biriyim.
+
+Askerlik Durumu: Yapılmadı
+
+Yetenekler:
+SQL, Pandas, Spark, Scikit-learn, Big Data, Python, Python, Rest API
+
+İş Deneyimi:
+2021 - Günümüz | Girişim Ltd.
+- Projelerde aktif rol aldım.
+- SQL ve Pandas teknolojilerini kullanarak geliştirmeler yaptım.
+
+Eğitim:
+Bilgisayar Mühendisliği, YTÜ Üniversitesi

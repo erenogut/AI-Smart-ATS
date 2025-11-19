@@ -1,0 +1,24 @@
+
+Veli Çetin
+Backend Developer
+
+İletişim:
+E-Posta: veli.çetin5@mail.com
+Telefon: 0548 420 82 75
+Adres: İstanbul, Türkiye
+
+Hakkımda:
+Teknolojiye meraklı, öğrenmeye açık ve Backend Developer pozisyonunda kariyer hedefleyen biriyim.
+
+Askerlik Durumu: Yapılmadı
+
+Yetenekler:
+Docker, Django, Linux, Git, PostgreSQL, Rest API, Liderlik, Excel
+
+İş Deneyimi:
+2021 - Günümüz | Girişim Ltd.
+- Projelerde aktif rol aldım.
+- Docker ve Django teknolojilerini kullanarak geliştirmeler yaptım.
+
+Eğitim:
+Bilgisayar Mühendisliği, YTÜ Üniversitesi

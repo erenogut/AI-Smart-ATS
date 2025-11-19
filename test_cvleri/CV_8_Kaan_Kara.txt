@@ -1,0 +1,24 @@
+
+Kaan Kara
+Data Scientist
+
+İletişim:
+E-Posta: kaan.kara42@mail.com
+Telefon: 0548 122 73 37
+Adres: İstanbul, Türkiye
+
+Hakkımda:
+Teknolojiye meraklı, öğrenmeye açık ve Data Scientist pozisyonunda kariyer hedefleyen biriyim.
+
+Askerlik Durumu: Muaf
+
+Yetenekler:
+SQL, Hadoop, NumPy, Tableau, TensorFlow, Spark, Kubernetes, Docker
+
+İş Deneyimi:
+2021 - Günümüz | Mega Corp
+- Projelerde aktif rol aldım.
+- SQL ve Hadoop teknolojilerini kullanarak geliştirmeler yaptım.
+
+Eğitim:
+Bilgisayar Mühendisliği, ODTÜ Üniversitesi

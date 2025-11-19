@@ -1,0 +1,24 @@
+
+Elif Kılıç
+Mobile Developer
+
+İletişim:
+E-Posta: elif.kılıç15@mail.com
+Telefon: 0543 820 35 51
+Adres: İstanbul, Türkiye
+
+Hakkımda:
+Teknolojiye meraklı, öğrenmeye açık ve Mobile Developer pozisyonunda kariyer hedefleyen biriyim.
+
+Askerlik Durumu: Muaf
+
+Yetenekler:
+Kotlin, iOS, Java, Firebase, Dart, Pazarlama, Sunum
+
+İş Deneyimi:
+2021 - Günümüz | Mega Corp
+- Projelerde aktif rol aldım.
+- Kotlin ve iOS teknolojilerini kullanarak geliştirmeler yaptım.
+
+Eğitim:
+Bilgisayar Mühendisliği, YTÜ Üniversitesi

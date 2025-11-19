@@ -1,0 +1,24 @@
+
+Oğuz Aydın
+Backend Developer
+
+İletişim:
+E-Posta: oğuz.aydın49@mail.com
+Telefon: 0552 215 80 98
+Adres: İstanbul, Türkiye
+
+Hakkımda:
+Teknolojiye meraklı, öğrenmeye açık ve Backend Developer pozisyonunda kariyer hedefleyen biriyim.
+
+Askerlik Durumu: Yapılmadı
+
+Yetenekler:
+Kubernetes, Git, PostgreSQL, AWS, Redis, FastAPI, Sunum, Satış
+
+İş Deneyimi:
+2021 - Günümüz | Tech A.Ş.
+- Projelerde aktif rol aldım.
+- Kubernetes ve Git teknolojilerini kullanarak geliştirmeler yaptım.
+
+Eğitim:
+Bilgisayar Mühendisliği, ODTÜ Üniversitesi

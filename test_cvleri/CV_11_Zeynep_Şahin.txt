@@ -1,0 +1,24 @@
+
+Zeynep Şahin
+Backend Developer
+
+İletişim:
+E-Posta: zeynep.şahin64@mail.com
+Telefon: 0536 621 39 67
+Adres: İstanbul, Türkiye
+
+Hakkımda:
+Teknolojiye meraklı, öğrenmeye açık ve Backend Developer pozisyonunda kariyer hedefleyen biriyim.
+
+Askerlik Durumu: Tamamlandı
+
+Yetenekler:
+AWS, Rest API, FastAPI, Microservices, Docker, Linux, PowerPoint, İletişim
+
+İş Deneyimi:
+2021 - Günümüz | Tech A.Ş.
+- Projelerde aktif rol aldım.
+- AWS ve Rest API teknolojilerini kullanarak geliştirmeler yaptım.
+
+Eğitim:
+Bilgisayar Mühendisliği, İTÜ Üniversitesi

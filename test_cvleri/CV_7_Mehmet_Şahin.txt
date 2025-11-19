@@ -1,0 +1,24 @@
+
+Mehmet Şahin
+Mobile Developer
+
+İletişim:
+E-Posta: mehmet.şahin60@mail.com
+Telefon: 0555 653 11 57
+Adres: İstanbul, Türkiye
+
+Hakkımda:
+Teknolojiye meraklı, öğrenmeye açık ve Mobile Developer pozisyonunda kariyer hedefleyen biriyim.
+
+Askerlik Durumu: Tecilli
+
+Yetenekler:
+Java, Dart, Flutter, React Native, iOS, İngilizce, Sunum
+
+İş Deneyimi:
+2021 - Günümüz | Mega Corp
+- Projelerde aktif rol aldım.
+- Java ve Dart teknolojilerini kullanarak geliştirmeler yaptım.
+
+Eğitim:
+Bilgisayar Mühendisliği, Marmara Üniversitesi

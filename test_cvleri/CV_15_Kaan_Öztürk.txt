@@ -1,0 +1,24 @@
+
+Kaan Öztürk
+Backend Developer
+
+İletişim:
+E-Posta: kaan.öztürk49@mail.com
+Telefon: 0543 626 99 31
+Adres: İstanbul, Türkiye
+
+Hakkımda:
+Teknolojiye meraklı, öğrenmeye açık ve Backend Developer pozisyonunda kariyer hedefleyen biriyim.
+
+Askerlik Durumu: Muaf
+
+Yetenekler:
+Rest API, Python, Django, FastAPI, Git, AWS, Pazarlama, Takım Çalışması
+
+İş Deneyimi:
+2021 - Günümüz | Mega Corp
+- Projelerde aktif rol aldım.
+- Rest API ve Python teknolojilerini kullanarak geliştirmeler yaptım.
+
+Eğitim:
+Bilgisayar Mühendisliği, YTÜ Üniversitesi

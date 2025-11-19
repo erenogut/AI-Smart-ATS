@@ -1,0 +1,24 @@
+
+Mehmet Yıldırım
+Data Scientist
+
+İletişim:
+E-Posta: mehmet.yıldırım65@mail.com
+Telefon: 0551 163 70 58
+Adres: İstanbul, Türkiye
+
+Hakkımda:
+Teknolojiye meraklı, öğrenmeye açık ve Data Scientist pozisyonunda kariyer hedefleyen biriyim.
+
+Askerlik Durumu: Tamamlandı
+
+Yetenekler:
+Scikit-learn, NumPy, SQL, Big Data, TensorFlow, Pandas, Linux, PostgreSQL
+
+İş Deneyimi:
+2021 - Günümüz | Soft Yazılım
+- Projelerde aktif rol aldım.
+- Scikit-learn ve NumPy teknolojilerini kullanarak geliştirmeler yaptım.
+
+Eğitim:
+Bilgisayar Mühendisliği, Boğaziçi Üniversitesi

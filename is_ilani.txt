@@ -1,0 +1,21 @@
+Pozisyon: Python Backend Geliştirici (Mid/Senior)
+Şirket: TechCorp Teknoloji A.Ş.
+
+İş Tanımı:
+Hızla büyüyen ekibimize katılacak, TechCorp'un yenilikçi SaaS platformunun backend servislerini geliştirecek takım arkadaşları arıyoruz. Bu rolde, yüksek performanslı ve ölçeklenebilir RESTful API'ler tasarlayacak, veritabanı mimarilerini optimize edecek ve mikroservis yapımıza katkıda bulunacaksınız.
+
+Temel Sorumluluklar:
+- Python, FastAPI ve Django kullanarak temiz, sürdürülebilir ve test edilebilir kod yazmak.
+- Yeni API endpoint'leri tasarlamak ve mevcutları optimize etmek.
+- PostgreSQL ve MongoDB veritabanlarıyla çalışmak, sorguları iyileştirmek.
+- CI/CD süreçlerine (Docker, Jenkins) aktif olarak katılmak.
+- Ekip içinde kod gözden geçirme (code review) yapmak.
+- Git kullanarak sürüm kontrol süreçlerini yönetmek.
+
+Aranan Nitelikler:
+- En az 3 yıl profesyonel yazılım geliştirme tecrübesi.
+- Python diline ve ekosistemine (özellikle FastAPI veya Django) derinlemesine hakimiyet.
+- RESTful API tasarımı konusunda güçlü bilgi birikimi.
+- İlişkisel (PostgreSQL) ve NoSQL (MongoDB, Redis) veritabanları konusunda deneyim.
+- Docker ve container teknolojileri hakkında bilgi sahibi olmak.
+- Güçlü problem çözme ve analitik düşünme becerileri.
