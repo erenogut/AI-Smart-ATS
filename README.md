@@ -38,5 +38,6 @@ This project is a desktop application that helps you find the best candidates fo
     ```bash
     python desktop_app.py
     ```
+<img width="1497" height="923" alt="Ekran görüntüsü 2025-11-20 004606" src="https://github.com/user-attachments/assets/20883347-6c65-4bbb-a0e4-fef7f5b88fbc" />
 
 Developer: Eren Öğüt
